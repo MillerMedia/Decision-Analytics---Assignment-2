@@ -1,0 +1,33 @@
+Status: Optimal
+
+Task Times and Slack:
+Task A: ES = 0.0, EF = 4.0, LS = 0.0, LF = 4.0, Slack = 0.0
+Task B: ES = 0.0, EF = 8.0, LS = 94.0, LF = 102.0, Slack = 94.0
+Task C: ES = 4.0, EF = 10.0, LS = 96.0, LF = 102.0, Slack = 92.0
+Task D1: ES = 4.0, EF = 16.0, LS = 4.0, LF = 16.0, Slack = 0.0
+Task D2: ES = 16.0, EF = 32.0, LS = 16.0, LF = 32.0, Slack = 0.0
+Task D3: ES = 16.0, EF = 32.0, LS = 16.0, LF = 32.0, Slack = 0.0
+Task D4: ES = 32.0, EF = 72.0, LS = 32.0, LF = 72.0, Slack = 0.0
+Task D5: ES = 72.0, EF = 80.0, LS = 96.0, LF = 104.0, Slack = 24.0
+Task D6: ES = 72.0, EF = 88.0, LS = 72.0, LF = 88.0, Slack = 0.0
+Task D7: ES = 88.0, EF = 104.0, LS = 88.0, LF = 104.0, Slack = 0.0
+Task D8: ES = 104.0, EF = 108.0, LS = 104.0, LF = 108.0, Slack = 0.0
+Task E: ES = 10.0, EF = 18.0, LS = 102.0, LF = 110.0, Slack = 92.0
+Task F: ES = 108.0, EF = 114.0, LS = 110.0, LF = 116.0, Slack = 2.0
+Task G: ES = 108.0, EF = 116.0, LS = 108.0, LF = 116.0, Slack = 0.0
+Task H: ES = 116.0, EF = 122.0, LS = 116.0, LF = 122.0, Slack = 0.0
+
+Tasks on the critical path:
+ - Task A
+ - Task D1
+ - Task D2
+ - Task D3
+ - Task D4
+ - Task D6
+ - Task D7
+ - Task D8
+ - Task G
+ - Task H
+
+Total project completion time: 122.0 hours
+Total project cost: $10440
